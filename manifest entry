@@ -1,0 +1,6 @@
+ Define your function.
+
+private boolean shouldGenerateAutoComments(String title, boolean isValid, List<String> listNames){
+        // function code
+        return true;
+}
